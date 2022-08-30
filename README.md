@@ -8,7 +8,7 @@ This project is written in Python. It requires internet access to query https://
  - Number of listings
  - Market price
 
-#Setup
+# Setup
 You will need the latest version of Python. The default browser is Mozilla Firefox. You will need to download "geckodriver" and add that to your PATH.
 
 You will need the following Python libraries:
